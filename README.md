@@ -15,8 +15,8 @@
 
 ```javascript
 const rachel = {
-  code: [Javascript, HTML, CSS, Python]
-  tools: [React, Redux, Node, GraphQL] 
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Redux, Node, GraphQL],
   techCommunities: {
                     student: "Lambda School"
   },
