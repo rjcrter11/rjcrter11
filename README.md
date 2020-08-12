@@ -7,8 +7,11 @@
 [![GitHub rjcrter11](https://img.shields.io/github/followers/rjcrter11?label=follow&style=social)](https://github.com/rjcrter11)
 
 <br>
+<h3>Github Stats</h3>
 
-<h3>More about me</h3>
+![Rachel's github stats](https://github-readme-stats.vercel.app/api?username=rjcrter11&theme=dark&show_icons=true)
+
+<h3>About me</h3>
 
 ```javascript
 const rachel = {
@@ -24,9 +27,7 @@ const rachel = {
    funFact: "A cow-bison hybrid is called a 'beefalo'."
 }
 ```
-<br> 
+ 
 
-<h3>Github Stats</h3>
 
-![Rachel's github stats](https://github-readme-stats.vercel.app/api?username=rjcrter11&theme=dark&show_icons=true)
 
