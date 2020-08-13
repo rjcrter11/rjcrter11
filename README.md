@@ -1,6 +1,6 @@
 <h2> Hi, I'm Rachel Carter! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="70" ></h2>
 
-<p><em>Software Enginner at <a href="https://lambdaschool.com/">Lambda</a><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="50"> 
+<p><em>Software Engineer, developed by <a href="https://lambdaschool.com/">Lambda School</a><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="50"> 
 </em></p>
 
 [![Linkedin: rachel-j-carter](https://img.shields.io/badge/-racheljcarter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachel-j-carter/)](https://www.linkedin.com/in/rachel-j-carter/)
@@ -17,14 +17,12 @@
 const rachel = {
   code: [Javascript, HTML, CSS, Python],
   tools: [React, Redux, Node, GraphQL],
-  techCommunities: {
-                    student: "Lambda School"
-  },
+  graduate: "Lambda School",
   contactMe: {
               email: "rjcrter11@gmail.com",
               website: "rachelcarter.dev"
    },
-   funFact: "A cow-bison hybrid is called a 'beefalo'."
+   funFact: "My cat is named Barbara. She's incredibly rude. But I love her anyway."
 }
 ```
  
