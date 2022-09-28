@@ -9,7 +9,7 @@
 <br>
 <h3>Github Stats</h3>
 
-![Rachel's github stats](https://github-readme-stats.vercel.app/api?username=rjcrter11&theme=dark&show_icons=true)
+![Rachel's github stats](https://github-readme-stats.vercel.app/api?username=rjcrter11&theme=dark&show_icons=true&count_private=true)
 
 <h3>About me</h3>
 
