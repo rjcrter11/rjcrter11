@@ -10,7 +10,7 @@
 <h3>Github Stats</h3>
 
 ![Rachel's github stats](https://github-readme-stats.vercel.app/api?username=rjcrter11&theme=onedark&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjcrter11&layout=compact)](https://github.com/rjcrter11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjcrter11&langs_count=8&layout=compact)](https://github.com/rjcrter11/github-readme-stats)
 
 <h3>About me</h3>
 
